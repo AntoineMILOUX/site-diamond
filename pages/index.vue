@@ -13,7 +13,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub - DIAMOND.FR
+          GitHub - DIAMOND.FR (v0.1)
         </a>
       </div>
     </div>
