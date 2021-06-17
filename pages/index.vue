@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        SITE-DIAMOND
+        DIAMOND.FR
       </h1>
       <div class="links">
 
