@@ -13,7 +13,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          GitHub - Site-diamond
         </a>
       </div>
     </div>
