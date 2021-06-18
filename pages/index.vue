@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        DIAMOND.FR (v.0.0.2)
+        DIAMOND.FR (v.0.0.3)
       </h1>
       <div class="links">
 
@@ -13,7 +13,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub - DIAMOND.FR (v0.2)
+          GitHub - DIAMOND.FR (v0.3)
         </a>
       </div>
     </div>
